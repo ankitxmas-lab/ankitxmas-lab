@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>
 <h3 align="center">C-DAC Certified - H.P.C Engineer & Full Stack AI Developer </h3>
-<img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWM0cWVrcTB1aGZuaTZpOHkwcmh3c2lmdjFzOHRyZ2plYXJqbzlxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wQclSvQQKtObPx9UKY/giphy.webp" width="350px" alt="coding" align="right"/>
+<img src="https://giphy.com/gifs/AllianceDAO-code-alliance-dao-qiVANfYnZ6TSJpRCP8" width="350px" alt="coding" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitxmas-lab&label=Profile%20views&color=0e75b6&style=flat" alt="Ankit Kumar Singh" /> </p>
 
